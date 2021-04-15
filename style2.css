@@ -1,0 +1,144 @@
+
+body{
+    background-color: grey;
+    display: flex;
+
+}
+.button{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+    box-shadow: none;
+    outline: none;
+    border: 1.5px grey;
+}
+.row1{
+    flex-direction: row;
+    height: 22.5px;
+}
+.row2{
+    flex-direction: row;
+    height: 22.5px;
+}
+.row3{
+    flex-direction: row;
+    height: 22.5px;
+}
+.row4{
+    flex-direction: row;
+    height: 22.5px;
+}
+.row5{
+    flex-direction: row;
+    height: 22.5px;
+}
+.row6{
+    flex-direction: row;
+    height: 22.5px;
+}
+div{
+    justify-content: space-around;
+}
+.button{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button1{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button2{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button3{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button4{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button5{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button6{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button7{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button8{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button9{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button10{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button11{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button12{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button13{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button14{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button15{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button16{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button17{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button18{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button19{
+    background-color: blanchedalmond;
+    height: 20px;
+    width: 27px;
+}
+.button:hover{
+    background-color: yellow;
+}
